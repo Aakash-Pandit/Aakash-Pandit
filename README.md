@@ -22,6 +22,7 @@
  - :wave: Ask me about Django and Django Rest Framework
  - 📫 How to reach me: aakashpandit366@gmail.com
  - :grimacing: My interest lies in Back End web development
+ - ⚡ Fun fact :- food and sleep are the reasons to live.
  
 ### Language and Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
