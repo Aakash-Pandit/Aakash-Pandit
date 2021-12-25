@@ -1,4 +1,4 @@
-### Hi :wave:, There!
+### Hi, There! :wave:
 
 <br />
 
