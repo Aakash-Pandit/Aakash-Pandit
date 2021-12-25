@@ -14,6 +14,8 @@
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
+<br />
+<br />
 
  - :computer: I'm currently working on Python Django and Django Rest Framework
  - :books: I'm currently exploring Golang, Reactjs and Nestjs
