@@ -1,7 +1,6 @@
 ### Hi :wave:, There!
 
 <br />
-<br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://www.linkedin.com/in/aakash-pandit-0a643812a/">
@@ -27,6 +26,9 @@
  - :grimacing: My interest lies in Back End web development
  - ⚡ Fun fact :- food and sleep are the reasons to live.
  
+<br />
+<br />
+
 ### Language and Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
