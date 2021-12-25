@@ -2,16 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/aakash-pandit-0a643812a/">
-  <img align="left" alt="Aakash's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aakash's LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/iaakashpandit/">
-  <img align="left" alt="Aakash's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aakash's Instagram" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/aakash.pandit.56">
-  <img align="left" alt="Aakash's Facebook" width="24px" src="https://www.seekpng.com/ima/u2q8a9o0i1u2i1q8/" />
+  <img align="left" alt="Aakash's Facebook" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <a href="https://twitter.com/aakashpandit366/">
-  <img align="left" alt="Aakash's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Aakash's Twitter" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 
 <br />
@@ -37,6 +37,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Pandit&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Aakash's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Pandit&count_private=true&theme=radical" alt="Aakash-Pandit" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Pandit&count_private=true&theme=radical" alt="Aakash-Pandit" />
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 
 ----
 Credit: [Aakash-Pandit](https://github.com/Aakash-Pandit)
