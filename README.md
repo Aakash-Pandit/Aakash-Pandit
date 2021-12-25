@@ -18,9 +18,9 @@
 <br />
 
  - :computer: I'm currently working on Python Django and Django Rest Framework
- - :books: I'm currently exploring Golang, Reactjs and Nestjs
+ - 🌱 I'm currently exploring Golang, Reactjs and Nestjs
  - :wave: Ask me about Django and Django Rest Framework
- - :mailbox: How to reach me: aakashpandit366@gmail.com
+ - 📫 How to reach me: aakashpandit366@gmail.com
  - :grimacing: My interest lies in Back End web development
  
 ### Language and Tools
@@ -38,4 +38,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Pandit&count_private=true&theme=radical" alt="Aakash-Pandit" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Pandit&count_private=true&theme=radical" alt="Aakash-Pandit" />
 
+----
+Credit: [Aakash-Pandit](https://github.com/Aakash-Pandit)
 
+Last Edited on: 25/12/2021
