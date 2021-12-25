@@ -1,6 +1,9 @@
 ### Hi :wave:, There!
 
+<br />
+<br />
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://www.linkedin.com/in/aakash-pandit-0a643812a/">
   <img align="left" alt="Aakash's LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
