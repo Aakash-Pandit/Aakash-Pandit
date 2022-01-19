@@ -1,5 +1,7 @@
 ### Hi, There! :wave:
 
+<img align="center" alt="GIF" src="https://github.com/ananddasani/ananddasani/blob/main/gif/AnandCodingGif.gif?raw=true" width="800" height="520" />
+
 <br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
