@@ -20,7 +20,7 @@
 <br />
 
  - :computer: I'm currently working on Python Django and Django Rest Framework
- - 🌱 I'm currently exploring Golang, Reactjs and Nestjs
+ - 🌱 I'm currently exploring Golang and Reactjs
  - :wave: Ask me about Django and Django Rest Framework
  - 📫 How to reach me: aakashpandit366@gmail.com
  - :grimacing: My interest lies in Back End web development
