@@ -19,7 +19,7 @@
 <br />
 <br />
 
- - :computer: I'm currently working on Python Django, Django Rest Framework and Go Fiber Framework
+ - :computer: I'm currently working on Python Django, Django Rest Framework and Go Frameworks
  - 🌱 I'm currently exploring Golang and Reactjs
  - :wave: Ask me about Django and Django Rest Framework
  - 📫 How to reach me: aakashpandit366@gmail.com
